@@ -1,0 +1,339 @@
+[2021-08-24 10:55:00]
+{"from":"6282298859671@c.us","message":"mau tanya"}
+
+[2021-08-24 10:55:02]
+{"from":"@c.us"}
+
+[2021-08-24 10:55:11]
+{"from":"6282298859671@c.us","message":"mau tanya"}
+
+[2021-08-24 10:55:25]
+{"from":"6282298859671@c.us"}
+
+[2021-08-24 10:56:13]
+{"from":"6282298859671@c.us","message":"mau tanya"}
+
+[2021-08-24 10:56:24]
+{"from":"6282298859671@c.us","message":"mau tanya"}
+
+[2021-08-24 10:56:38]
+{"from":"6282298859671@c.us"}
+
+[2021-08-24 10:57:46]
+{"from":"6282298859671@c.us"}
+
+[2021-08-24 10:59:29]
+{"from":"6282298859671@c.us","message":"mau tanya"}
+
+[2021-08-24 11:05:01]
+{"from":"6282298859671@c.us","message":"assalamualaikum"}
+
+[2021-08-24 11:06:36]
+{"from":"62822988596711625981798@c.us","message":"assalamualaikum"}
+
+[2021-08-24 11:06:48]
+{"from":"62822988596711625981798@c.us","message":"1"}
+
+[2021-08-24 11:13:56]
+{"from":"62822988596711625981798@c.us","message":"Wa'alaikumsalam wr.wb"}
+
+[2021-08-24 11:14:31]
+{"from":"62822988596711625981798@c.us","message":"1"}
+
+[2021-08-24 11:14:46]
+{"from":"62822988596711625981798@c.us","message":"abaikan jes :v"}
+
+[2021-08-24 11:15:12]
+{"from":"62822988596711625981798@c.us","message":"Testing hhi:v"}
+
+[2021-08-24 11:17:23]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:20:01]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:20:12]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:20:39]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:21:42]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:22:10]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:22:46]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:22:53]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 11:23:04]
+{"from":"62822988596711625981798@c.us","message":"bismillah"}
+
+[2021-08-24 11:26:46]
+{"from":"62822988596711625981798@c.us","message":"bismillah"}
+
+[2021-08-24 11:37:14]
+{"from":"6282298859671@c.us","message":"subhanallah"}
+
+[2021-08-24 11:37:38]
+{"from":"6282298859671@c.us","message":"subhanallah"}
+
+[2021-08-24 11:38:14]
+{"from":"6282298859671@c.us","message":"subhanallah"}
+
+[2021-08-24 11:42:22]
+{"from":"6282298859671@c.us","message":"subhanallah"}
+
+[2021-08-24 11:43:41]
+{"from":"6282298859671@c.us","message":"subhanallah"}
+
+[2021-08-24 11:43:44]
+{"from":"6282298859671@c.us","message":"subhanallah"}
+
+[2021-08-24 12:47:31]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 12:47:39]
+{"from":"6282298859671@c.us","message":"alhamdulillah"}
+
+[2021-08-24 12:47:43]
+{"from":"6282298859671@c.us","message":"assalamualaikum"}
+
+[2021-08-24 14:06:54]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-08-24 14:07:05]
+{"from":"6282298859671@c.us","message":"bismillah"}
+
+[2021-11-14 08:58:05]
+null
+
+[2021-11-14 09:00:29]
+null
+
+[2021-11-14 09:03:52]
+{"from":"62812328676861635470642@c.us","message":"Selamat pagi Ibu\/Bapak Peserta BLUExpo 2021.\nSalam sejahtera bagi kita semua. \n\nBagi ibu dan bapak yang belum mengisi atau belum melengkapi web expo, dipersilahkan untuk mengisi konten terbaiknya. *Batas waktu pengisian web expo sampai dengan 15 November 2021 Pukul 22.00*\nBila ada kendala dalam pengisian boleh menghubungi kami. \nLia (0818-0366-0303)\nWendy (087892678524)\n\nBagi yang sudah mengisi kami ucapkan terimakasih. \n\nAtas perhatiannya kami ucapkan terimakasih."}
+
+[2021-11-14 09:04:27]
+null
+
+[2021-11-14 09:10:02]
+{"from":"6281367082426@c.us","message":"Hai"}
+
+[2021-11-14 09:10:45]
+{"from":"6281367082426@c.us","message":"Test"}
+
+[2021-11-14 09:11:17]
+{"from":"62822811811981492782491@c.us","message":"Panjang sekali"}
+
+[2021-11-14 09:13:59]
+{"from":"6281367082426@c.us","message":"Test"}
+
+[2021-11-14 09:14:04]
+{"from":"6281367082426@c.us","message":"Koceng"}
+
+[2021-11-14 09:14:19]
+{"from":"6281367082426@c.us","message":"Hai"}
+
+[2021-11-14 09:14:32]
+{"from":"6281367082426@c.us","message":"Test"}
+
+[2021-11-14 09:14:35]
+{"from":"6281367082426@c.us","message":"Hai"}
+
+[2021-11-14 09:15:07]
+{"from":"6281367082426@c.us","message":"Hei"}
+
+[2021-11-14 09:31:08]
+null
+
+[2021-11-14 09:31:09]
+null
+
+[2021-11-14 09:31:11]
+null
+
+[2021-11-14 09:31:11]
+null
+
+[2021-11-14 09:31:11]
+null
+
+[2021-11-14 09:31:12]
+null
+
+[2021-11-14 09:31:12]
+null
+
+[2021-11-14 09:31:12]
+null
+
+[2021-11-14 09:31:12]
+null
+
+[2021-11-14 09:31:12]
+null
+
+[2021-11-14 09:31:15]
+null
+
+[2021-11-14 09:32:05]
+null
+
+[2021-11-14 09:52:47]
+{"from":"62895636883158@c.us","message":"Udh sampe ini"}
+
+[2021-11-14 09:52:53]
+{"from":"62895636883158@c.us","message":""}
+
+[2021-11-14 10:04:56]
+{"from":"6281273361391562235507@c.us","message":"Besok jam 8.30 kito kumpul dulu bahas persiapan desknyo yo"}
+
+[2021-11-14 10:08:19]
+{"from":"6281273361391562235507@c.us","message":"Baik Pak Ali"}
+
+[2021-11-17 11:50:43]
+{"from":"62822811811981492782491@c.us","message":"Main binomo nyo giw"}
+
+[2021-11-17 11:51:04]
+{"from":"62822811811981492782491@c.us","message":"Wai dk ngajak2 ny main binomtot"}
+
+[2021-11-17 11:51:16]
+{"from":"62822811811981492782491@c.us","message":"Cukkk kladiii,, bnyak konsumen maxim brooo???"}
+
+[2021-11-17 11:51:27]
+{"from":"62822811811981492782491@c.us","message":"Aku nak ikut jugo klo cak ituuu"}
+
+[2021-11-17 11:51:35]
+{"from":"62822811811981492782491@c.us","message":"Betul bal"}
+
+[2021-11-17 11:51:36]
+{"from":"62822811811981492782491@c.us","message":"Aku jg ga"}
+
+[2021-11-17 11:51:48]
+{"from":"62822811811981492782491@c.us","message":"Sekalin treding aku bro"}
+
+[2021-11-17 11:51:57]
+{"from":"62822811811981492782491@c.us","message":"Daftar bro"}
+
+[2021-11-17 11:52:27]
+{"from":"62822811811981492782491@c.us","message":"Klak aku kasih tau di mn tempek stay yg bnyak orderan"}
+
+[2021-11-17 11:53:07]
+{"from":"62822811811981492782491@c.us","message":"Siyaaappp,, strategis nian cak nyo tempat ngetem tuhh"}
+
+[2021-11-17 11:53:26]
+{"from":"62822811811981492782491@c.us","message":"Mantap"}
+
+[2021-11-17 11:53:36]
+{"from":"62822811811981492782491@c.us","message":"Keluar dlu dari bioskop ko"}
+
+[2021-11-17 11:53:49]
+{"from":"62822811811981492782491@c.us","message":"Rekor itu bro"}
+
+[2021-11-17 11:54:12]
+{"from":"62822811811981492782491@c.us","message":"Wkwkwkwk,, brenti lah kerjo di Bioskop balik malam truss,, kalah kek maxim"}
+
+[2021-11-17 11:54:34]
+{"from":"62822811811981492782491@c.us","message":"Maxim aj balik jam 4"}
+
+[2021-11-17 11:54:59]
+{"from":"62822811811981492782491@c.us","message":"Kau jg ga\nBerentila\nHarus ny balik jam 4 malah balik jam 12"}
+
+[2021-11-17 11:55:00]
+{"from":"62822811811981492782491@c.us","message":"Kayo jg idak"}
+
+[2021-11-17 11:55:19]
+{"from":"62822811811981492782491@c.us","message":"Iyooow,, blum nyo ngepushh sampe malam nggiw,, klo pajero tebeli kek risky"}
+
+[2021-11-17 11:55:36]
+{"from":"62822811811981492782491@c.us","message":"Anjaaay\nItu ngankut orang doang dk ga\nKwkw"}
+
+[2021-11-17 11:55:45]
+{"from":"62822811811981492782491@c.us","message":"Kalau food ny mungkin kalah rafiahmad"}
+
+[2021-11-17 11:55:58]
+{"from":"62822811811981492782491@c.us","message":"\ud83d\ude03\ud83d\ude03\ud83d\ude03"}
+
+[2021-11-17 11:56:35]
+{"from":"62822811811981492782491@c.us","message":"Modal pkek mx shock bocorr tuhh,,"}
+
+[2021-11-17 11:56:45]
+{"from":"62822811811981492782491@c.us","message":"Balik2 jdi sultan kwan,"}
+
+[2021-11-17 11:59:37]
+{"from":"62822811811981492782491@c.us","message":"Kito dl tau rejeki ga"}
+
+[2021-11-17 11:59:44]
+{"from":"62822811811981492782491@c.us","message":"Ny di kasih isentiv ga"}
+
+[2021-11-17 11:59:56]
+{"from":"62822811811981492782491@c.us","message":"Besak pado bayaran"}
+
+[2021-11-17 11:59:56]
+{"from":"62822811811981492782491@c.us","message":"Baal am ad ndk berasan dikiy"}
+
+[2021-11-17 11:59:57]
+{"from":"62822811811981492782491@c.us","message":"Dikit"}
+
+[2021-11-17 12:00:04]
+{"from":"@c.us"}
+
+[2021-11-17 12:00:20]
+{"from":"62822811811981492782491@c.us","message":"Nah ip jg gik?"}
+
+[2021-11-17 12:00:29]
+{"from":"62822811811981492782491@c.us","message":"Nak"}
+
+[2021-11-17 12:01:26]
+{"from":"62822811811981492782491@c.us","message":"ip aku ad untuk ap lagi"}
+
+[2021-11-17 12:02:35]
+{"from":"62822811811981492782491@c.us","message":"Basing kau lah idak bocor lagi"}
+
+[2021-11-17 12:02:45]
+{"from":"62822811811981492782491@c.us","message":"Yg buek orderan aku bnyak tu mx tula"}
+
+[2021-11-17 12:15:27]
+{"from":"62822811811981492782491@c.us","message":"Apo gi"}
+
+[2021-11-17 12:23:35]
+{"from":"62822811811981492782491@c.us","message":"Hasil trading di binomo"}
+
+[2021-11-17 12:23:36]
+{"from":"62822811811981492782491@c.us","message":""}
+
+[2021-11-17 12:24:27]
+{"from":"62822811811981492782491@c.us","message":"Aku dengar\u00b2 anggi beli sepatu hargo sejuta kmaren baal"}
+
+[2021-11-17 12:24:27]
+{"from":"62822811811981492782491@c.us","message":"Yo dk ki?"}
+
+[2021-11-17 12:24:35]
+{"from":"62822811811981492782491@c.us","message":"@6285157725171"}
+
+[2021-11-17 12:25:30]
+{"from":"62822811811981492782491@c.us","message":"Iyo giw"}
+
+[2021-11-17 12:25:53]
+{"from":"62822811811981492782491@c.us","message":"Lah sudah blm bal?"}
+
+[2021-11-17 12:26:45]
+{"from":"62822811811981492782491@c.us","message":"Jgn cayo bal"}
+
+[2021-11-17 13:15:32]
+{"from":"62895636883158@c.us","message":"Yo"}
+
+[2021-11-17 13:17:19]
+{"from":"6282175064400@c.us","message":"Sabat"}
+
+[2021-11-17 13:17:19]
+{"from":"6282175064400@c.us","message":"Sabar"}
+
+[2021-11-17 13:17:50]
+{"from":"6282175064400@c.us","message":"Senangkanlah ortu selaginyo masih hidupp"}
+
